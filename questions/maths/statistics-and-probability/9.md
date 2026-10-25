@@ -1,4 +1,7 @@
 ---
+tags:
+  - public
+  - '2025'
 choices:
   - $0\leq P(A)\leq1$
   - $P(\phi)=0$

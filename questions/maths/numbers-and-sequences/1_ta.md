@@ -1,4 +1,7 @@
 ---
+tags:
+  - public
+  - '2025'
 choices:
   - \(1 < r < b\)
   - \(0 < r < b\)

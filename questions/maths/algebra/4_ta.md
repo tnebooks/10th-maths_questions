@@ -1,4 +1,7 @@
 ---
+tags:
+  - public
+  - '2023'
 choices:
   - $\dfrac{9y^3}{21y-21}$
   - $\dfrac{21y^2-42y+21}{3y^3}$

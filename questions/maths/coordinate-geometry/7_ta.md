@@ -1,4 +1,7 @@
 ---
+tags:
+  - public
+  - '2025'
 choices:
   - $-1$
   - $\dfrac13$

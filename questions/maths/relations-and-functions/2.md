@@ -1,4 +1,7 @@
 ---
+tags:
+  - public
+  - '2023'
 choices:
   - 8
   - 20

@@ -1,4 +1,7 @@
 ---
+tags:
+  - public
+  - '2024'
 choices:
   - $4x^2$
   - $8x^2$

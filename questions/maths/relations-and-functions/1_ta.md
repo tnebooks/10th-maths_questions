@@ -1,4 +1,7 @@
 ---
+tags:
+  - public
+  - '2024'
 choices:
   - 1
   - 2

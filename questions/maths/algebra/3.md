@@ -1,4 +1,7 @@
 ---
+tags:
+  - public
+  - '2025'
 choices:
   - 3
   - 6

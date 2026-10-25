@@ -1,4 +1,7 @@
 ---
+tags:
+  - public
+  - '2023'
 choices:
   - $\angle B=\angle E$
   - $\angle A=\angle D$

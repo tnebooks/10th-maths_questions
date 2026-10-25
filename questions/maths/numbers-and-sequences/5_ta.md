@@ -1,4 +1,7 @@
 ---
+tags:
+  - public
+  - '2024'
 choices:
   - 2025
   - 5220

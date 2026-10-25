@@ -1,4 +1,7 @@
 ---
+tags:
+  - public
+  - '2023'
 choices:
   - $\dfrac{-3}{2}$
   - $\dfrac{2}{3}$

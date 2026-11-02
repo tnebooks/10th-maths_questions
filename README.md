@@ -1,6 +1,2 @@
-## 10th Science
-
-```sh
-git clone https://github.com/gurukulams/design-system ../design-system
-hugo server  --themesDir ../ --disableFastRender
-```
+# 10th-maths_questions
+10th Maths Bookback Questions

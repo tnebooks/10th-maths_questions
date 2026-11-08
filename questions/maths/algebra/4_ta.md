@@ -1,14 +1,16 @@
 ---
 tags:
-  - public
-  - '2023'
+- public
+- '2023'
+- pta-set-5
 choices:
-  - $\dfrac{9y^3}{21y-21}$
-  - $\dfrac{21y^2-42y+21}{3y^3}$
-  - $\dfrac{7(y^2-2y+1)}{y^2}$
+- $\dfrac{9y^3}{21y-21}$
+- $\dfrac{21y^2-42y+21}{3y^3}$
+- $\dfrac{7(y^2-2y+1)}{y^2}$
 answers:
-  - $\dfrac{9y}7$
+- $\dfrac{9y}7$
 ---
+
 
 ## $\dfrac{3y-3}y\div\dfrac{7y-7}{3y^2}$ என்பது
 

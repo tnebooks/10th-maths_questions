@@ -1,14 +1,19 @@
 ---
 tags:
-  - public
-  - '2023'
+- public
+- '2023'
+- '2025'
+- quarterly
+- 1-marks
 choices:
-  - $\angle B=\angle E$
-  - $\angle A=\angle D$
-  - $\angle A=\angle F$
+- $\angle B=\angle E$
+- $\angle A=\angle D$
+- $\angle A=\angle F$
 answers:
-  - $\angle B=\angle D$
+- $\angle B=\angle D$
 ---
+
+
 
 ## $\dfrac{AB}{DE}=\dfrac{BC}{FD}$ எனில், $ABC$ மற்றும் $EDF$ எப்பொழுது வடிவொத்தவையாக அமையும்.
 

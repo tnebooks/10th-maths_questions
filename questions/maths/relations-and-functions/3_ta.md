@@ -1,11 +1,17 @@
 ---
 choices:
-  - \( (B \times D) \subset (A \times C) \)
-  - \( (A \times B) \subset (A \times D) \)
-  - \( (D \times A) \subset (B \times A) \)
+- \( (B \times D) \subset (A \times C) \)
+- \( (A \times B) \subset (A \times D) \)
+- \( (D \times A) \subset (B \times A) \)
 answers:
-  - \( (A \times C) \subset (B \times D) \)
+- \( (A \times C) \subset (B \times D) \)
+tags:
+- public
+- midterm
+- '2025'
+- 1-marks
 ---
+
 
 ## \( A = \{1,2\}, B = \{1,2,3,4\}, C = \{5,6\} \) மற்றும் \( D = \{5, 6, 7, 8\} \) எனில் கீழே கொடுக்கப்பட்டவைகளில் எது சரியான கூற்று?
 

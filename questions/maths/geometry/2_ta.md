@@ -1,11 +1,17 @@
 ---
 choices:
-  - $40^\circ$
-  - $30^\circ$
-  - $110^\circ$
+- $40^\circ$
+- $30^\circ$
+- $110^\circ$
 answers:
-  - $70^\circ$
+- $70^\circ$
+tags:
+- public
+- '2025'
+- quarterly
+- 1-marks
 ---
+
 
 ## $\triangle LMN$-யில் $\angle L=60^\circ$, $\angle M=50^\circ$. மேலும், $\triangle LMN \sim \triangle PQR$ எனில், $\angle R$-யின் மதிப்பு
 

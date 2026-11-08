@@ -1,14 +1,21 @@
 ---
 tags:
-  - public
-  - '2023'
+- public
+- '2023'
+- quarterly
+- '2025'
+- 1-marks
+- pta
+- pta-set-4
 choices:
-  - $\dfrac{-3}{2}$
-  - $\dfrac{2}{3}$
-  - $\dfrac{-2}{3}$
+- $\dfrac{-3}{2}$
+- $\dfrac{2}{3}$
+- $\dfrac{-2}{3}$
 answers:
-  - $\dfrac{3}{2}$
+- $\dfrac{3}{2}$
 ---
+
+
 
 ## $\sin\theta=\cos\theta$ எனில் $2\tan^2\theta+\sin^2\theta-1$ –ன் மதிப்பு
 

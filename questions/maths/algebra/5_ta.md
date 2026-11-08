@@ -1,11 +1,18 @@
 ---
 choices:
-  - $\dfrac{y^4+1}{y^2}$
-  - $\left(y-\dfrac1y\right)^2+2$
-  - $\left(y+\dfrac1y\right)^2-2$
+- $\dfrac{y^4+1}{y^2}$
+- $\left(y-\dfrac1y\right)^2+2$
+- $\left(y+\dfrac1y\right)^2-2$
 answers:
-  - $\left(y+\dfrac1y\right)^2$
+- $\left(y+\dfrac1y\right)^2$
+tags:
+- public
+- quarterly
+- '2025'
+- 1-marks
 ---
+
+
 
 ## கீழ்க்காண்பனவற்றுள் எது $y^2+\dfrac1{y^2}$ –க்குச் சமம் இல்லை.
 

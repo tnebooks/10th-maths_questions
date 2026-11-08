@@ -1,11 +1,14 @@
 ---
 choices:
-  - $a^2-b^2$
-  - $a^2+b^2$
-  - $b-a$
+- $a^2-b^2$
+- $a^2+b^2$
+- $b-a$
 answers:
-  - $b^2-a^2$
+- $b^2-a^2$
+tags:
+- pta-set-5
 ---
+
 
 ## $a\cot\theta+b\,\text{cosec}\,\theta=p$ மற்றும் $b\cot\theta+a\,\text{cosec}\,\theta=q$ எனில் $p^2-q^2$ –ன் மதிப்பு
 

@@ -3,6 +3,7 @@ tags:
 - public
 - '2025'
 - pta-set-4
+- pta-set-5
 choices:
 - $0\leq P(A)\leq1$
 - $P(\phi)=0$
@@ -10,6 +11,7 @@ choices:
 answers:
 - $P(A)>1$
 ---
+
 
 ## கொடுக்கப்டடவைகளில் எது தவறானது?
 

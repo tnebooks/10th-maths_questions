@@ -1,11 +1,17 @@
 ---
 choices:
-  - $0$
-  - $1$
-  - $-1$
+- $0$
+- $1$
+- $-1$
 answers:
-  - $2$
+- $2$
+tags:
+- public
+- quarterly
+- '2025'
+- 1-marks
 ---
+
 
 ## $(1+\tan\theta+\sec\theta)(1+\cot\theta-\text{cosec}\,\theta)$ –ன் மதிப்பு
 

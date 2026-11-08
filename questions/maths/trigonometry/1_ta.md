@@ -1,11 +1,17 @@
 ---
 choices:
-  - $\tan^2\theta$
-  - $\cot^2\theta$
-  - $0$
+- $\tan^2\theta$
+- $\cot^2\theta$
+- $0$
 answers:
-  - $1$
+- $1$
+tags:
+- public
+- quarterly
+- '2025'
+- 1-marks
 ---
+
 
 ## $\sin^2\theta + \dfrac{1}{1+\tan^2\theta}$ –ன் மதிப்பு
 
